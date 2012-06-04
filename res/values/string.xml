@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">Picture Flash Cards</string>
+    <color name="green">#006400</color>
+
+
+
+</resources>
+ 
